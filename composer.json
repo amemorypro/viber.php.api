@@ -1,13 +1,13 @@
 {
-    "name": "bogdaan/viber-bot-php",
+    "name": "amemorypro/viber.php.api",
     "description": "Php bot interface to work with Viber API",
     "keywords": ["viber", "im", "bot"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Novikov Bogdan",
-            "email": "hcbogdan@gmail.com"
+            "name": "amemorypro",
+            "email": "amemorypro@gmail.com"
         }
     ],
     "require": {
